@@ -1,4 +1,5 @@
 # Turbulence in celestial bodies
+### Jullian C.B. Williams
 
 ![Pilars of creation taken by James Webb Space Telescope](https://raw.githubusercontent.com/jcbw/turbulence_in_celestial_bodies/main/img/pilars.webp)
 ##### _Image adapted from DePasquale, J., Koekemoer, A., Pagan, A. via Michael Irving, Oct 19 2022._
