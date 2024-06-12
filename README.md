@@ -1,6 +1,6 @@
 # Turbulence in celestial bodies
 
-![Pilars of creation taken by James Webb Space Telescope]([http://url/to/img.png](https://raw.githubusercontent.com/jcbw/turbulence_in_celestial_bodies/main/img/pilars.webp))
+![Pilars of creation taken by James Webb Space Telescope](https://raw.githubusercontent.com/jcbw/turbulence_in_celestial_bodies/main/img/pilars.webp)
 
 ## Description
 
